@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
                    TextFieldEffects enables a collection of drop in effects to standard UITextFields.
                    DESC
 
-  s.homepage     = "http://github.com/raulriera/TextFieldEffects"
+  s.homepage     = "http://github.com/sailingX/TextFieldEffects"
   s.screenshots  = "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Kaede.gif", "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Hoshi.gif", "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Jiro.gif", "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Isao.gif", "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Minoru.gif", "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Yoko.gif", "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Madoka.gif",
   "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Akira.gif",
   "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Yoshiko.gif"
@@ -65,7 +65,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source = { :git => "https://github.com/raulriera/TextFieldEffects.git", :tag => s.version.to_s }
+  s.source = { :git => "https://github.com/sailingX/TextFieldEffects.git", :tag => s.version.to_s }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
